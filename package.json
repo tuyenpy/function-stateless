@@ -11,7 +11,7 @@
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,7 +39,7 @@
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@storybook/addon-info": "^5.3.18",
-    "@storybook/react": "^5.3.18",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.1.0"
   }
 }
